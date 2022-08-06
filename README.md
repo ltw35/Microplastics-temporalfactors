@@ -1,10 +1,12 @@
 # Microplastics-temporalfactors
-Does time of day or flow condition affect measured riverine microplastic pollution?
+Does time of day or flow condition affect measured riverine microplastic pollution? And is the relationship, particularly with time of day, affected by the presence of an upstream wastewater treatment plant with diurnal release patterns? <br>
+
+With this study, we investigate these using field data collected in two tributaries located near Ithaca, New York, USA.<br><br>
 View the related 2019 publication in [Environmental Science and Pollution Research:](https://doi.org/10.1007/s11356-019-04663-8) 
 *Watkins, L., Sullivan, P.J. & Walter, M.T. A case study investigating temporal factors that influence microplastic concentration in streams under different treatment regimes. Environ Sci Pollut Res 26, 21797–21807 (2019). DOI:* [10.1007/s11356-019-04663-8](https://doi.org/10.1007/s11356-019-04663-8).
 Please don't hesitate to contact me if you have trouble accessing the full-text of our publication.
       
-## Contents of this repo (NEEDS UPDATING)
+## Contents of this repo
 *****
 1. `24hr_combined.csv`: field data file (see below for metadata) <br>
 2. `24hr_analysis.R`: code used to produce analysis and plots included in our paper published in *Environmental Science and Pollution Research* (2019). <br>
